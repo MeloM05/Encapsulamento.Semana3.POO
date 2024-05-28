@@ -1,2 +1,3 @@
-# Encapsulamento.Semana3.POO
+** Encapsulamento **
+ Semana 3 - Fundamentos da POO
  Exercícios das aulas sobre encapsulamento em Java, semana 3
