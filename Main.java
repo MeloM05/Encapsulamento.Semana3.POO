@@ -1,6 +1,3 @@
-
-import java.lang.classfile.Signature;
-
 /* Crie um algoritmo em Java contendo uma classe chamada Automovel. Ela deve possuir atributos públicos (public), protegidos (protected) e privados (private).
 */
 public class Automóvel{
